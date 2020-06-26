@@ -18,3 +18,5 @@ that the enemy always decides to attack from the direction that minimizes the nu
 the player can collect. That is, you may assume that the enemy minimizes the amount of coins the
 player can receive (after she/he has chosen the location for the wall) in the current and all future
 rounds.
+
+Last Modified: 12/6/2019
